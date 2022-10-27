@@ -2,7 +2,7 @@
 //  UITabBarControllerBaseTests.swift
 //  UITabBarControllerBaseTests
 //
-//  Created by velo.yamigiku@gmail.com on 2022/10/27.
+//  Created by velo.yamigiku on 2022/10/27.
 //
 
 import XCTest
